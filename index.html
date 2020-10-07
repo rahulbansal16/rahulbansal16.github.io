@@ -966,6 +966,17 @@
       flex-direction: column;
       font-weight: bold;
     }
+/* 
+    #titlecontainer {
+      margin-top: 170px;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+    }
+
+    #demovideo {
+      margin-right:20px
+    } */
     
     #title p {
       font-family: Inter;
@@ -1114,6 +1125,9 @@
     }
     
     /* Footer */
+    iframe, svg, img {
+      max-width: 100% !important
+    }
     
     footer {
       padding: 120px 40px 20px 40px;
@@ -1205,10 +1219,16 @@
           top: 4px;
         }
       }
+      #title {
+        padding:'10px' !important;
+      }
       #title p {
-        font-size: 70px !important;
+        font-size: 50px !important;
         line-height: 70px !important;
       }
+      /* #titlecontainer {
+        flex-direction: column;
+      } */
       #animated-fast #faster-mask {
         height: 70px !important;
       }
@@ -1266,9 +1286,17 @@
     
     @media only screen and (min-width: 950px) {
       #title p {
-        font-size: 130px !important;
-        line-height: 130px !important;
+        font-size: 80px !important;
+        line-height: 100px !important;
+        /* justify-content: space-between; */
       }
+      /* #titlecontainer {
+        width: 100%;
+        padding: 20px;
+      }
+      #demovideo {
+        margin-left: 50px !important;
+      } */
       #animated-fast #faster-mask {
         height: 130px !important;
       }
@@ -1379,11 +1407,8 @@
             <p>Stormy</p>
           </div>
     
-          <!-- Make Chrome Faster -->
-          <div id="title">
-            <p>Compile</p>
-            <p>Code</p>
-            <p>faster</p>
+          <div id = "title">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/pO1yM-iLTC8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
     
           <!-- Waitlist component -->
