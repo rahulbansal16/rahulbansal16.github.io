@@ -9,7 +9,7 @@
 
   <meta property="og:type" content="website">
   <meta content="summary_large_image" name="twitter:card">
-  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <link href="./landingPage_files/buildbuddy.webflow.50dd7fe0c.css" rel="stylesheet" type="text/css">
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-2K7SKKY2WJ"></script>
@@ -131,11 +131,61 @@
     }
 
 
+    .pricing1 {
+      display: flex;
+      flex-direction: row;
+      margin-left: 8.5%;
+    }
+
+    .pricing {
+      display: flex;
+      flex-direction: row;
+    }
+
+    .pricingTier {
+      padding-bottom: 60px;
+      padding-top: 60px;
+      --pdx-min-height: 0px;
+      --wr-max: 1200px;
+    }
+
+    .pricingTier1 {
+      padding-bottom: 60px;
+      padding-top: 60px;
+      --pdx-min-height: 0px;
+      --wr-max: 1200px;
+      width: 394.91px;
+
+    }
+
     @media only screen and (max-width:750px) {
       .section--cta .wr {
         flex-direction: column;
         justify-content: center
       }
+
+      .pricing1 {
+        display: flex;
+        flex-direction: column;
+        margin-left: 1%;
+      }
+
+      .pricing {
+        display: flex;
+        flex-direction: column;
+
+      }
+
+      .pricingTier1 {
+        padding-bottom: 60px;
+        padding-top: 60px;
+        --pdx-min-height: 0px;
+        --wr-max: 1200px;
+        width: 331.91px;
+      }
+
+
+
     }
 
     .section--blogPostTitle.section--center .wr,
@@ -146,12 +196,12 @@
 </head>
 
 <body>
-  <img src="./landingPage_files/5eeba6a6c5230e5d10a60db1_loader.svg" alt="" class="loader">
+
   <div class="navbar-container bg-white">
     <div data-collapse="medium" data-animation="default" data-duration="12" data-easing="linear" data-easing2="linear"
       role="banner" class="navbar w-nav">
       <div class="container nav-bar-container centered-links-nav">
-        <a href="https://stormyapp.com/" aria-current="page" class="w-nav-brand w--current" aria-label="home">
+        <a href="/" aria-current="page" class="w-nav-brand w--current" aria-label="home">
           <img
             src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTA0MCIgaGVpZ2h0PSIxMDU2IiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBtZWV0IiB2aWV3Qm94PSIwIDAgMTA0MCAxMDU2IiBzdHlsZT0iLW1zLXRyYW5zZm9ybTogcm90YXRlKDM2MGRlZyk7IC13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGUoMzYwZGVnKTsgdHJhbnNmb3JtOiByb3RhdGUoMzYwZGVnKTsiPjxwYXRoIGQ9Ik0yMTAgODk5cS0xMCAyMS0xNiAzMHQtMjEuNSAyMC41dC00MSAxN1Q2NSA5NzNxMS0zMiA0LjUtNTQuNVQ3NyA4ODN0MTMuNS0yM3QxNy0xNC41VDEzMCA4MzNxMzktMTkgNjItMzdsLTM5LTUwcS0xNSAxMS01MiAzMHEtMzggMTktNTcuNSAzOVQxMiA4ODAuNVQwIDEwMDRsMSAzM2wzMS0xcTYyIDAgMTAzLTZ0NjYtMjEuNXQzOC0zMS41dDI3LTQ1cTE1LTMxIDIyLTQ0bC00Ny00M3EtNyA5LTEzLjUgMTkuNXQtOS41IDE3dC04IDE3LjV6bTQ5NS02OTRxLTUzIDAtOTAuNSAzNy41VDU3NyAzMzNxMCAzNSAxNyA2NC41dDQ2LjUgNDYuNXQ2NC41IDE3dDY0LjUtMTd0NDYuNS00Ni41dDE3LTY0LjVxMC0yMS02LjUtNDAuNXQtMTgtMzUuNXQtMjcuNS0yNy41dC0zNS41LTE4VDcwNSAyMDV6bS0uNSAxOTJxLTI2LjUgMC00NS0xOVQ2NDEgMzMzdDE4LjUtNDV0NDUuNS0xOXExNyAwIDMyIDguNXQyMy41IDIzLjV0OC41IDMycTAgMjYtMTkgNDV0LTQ1LjUgMTl6TTEwMjQgNDVxLTEtMTItOS41LTIwLjVUOTk0IDE1cS00IDAtMTAuNS0uNVQ5NTUgMTR0LTQ1IDF0LTU2LjUgNC41dC02NiA5dC03MSAxNS41VDY0MyA2N3EtOTIgMzQtMTYzIDExN3EtOSAxMC0xNy41IDIxLjVUNDQ1IDIzM3QtMTYgMjcuNXQtMTcuNSAzMlQzOTYgMzIzdC0xNyAzMy41dC0xNSAyOS41bC03IDE0bC02IDEyLjVsLTcgMTMuNWwtNiAxMS41bC02IDEybC02IDEwLjVIMTQ4cS0xNCAwLTI0IDEwTDcgNTk4cS0xMiAxMy02LjUgMzAuNVQyNCA2NTBsMTkxIDQ0cTEyIDE1IDY5IDc4bDcyIDgwbDM5IDE2NXE0IDE4IDIyIDIzcTEgMSAyLjUgMXQzLjUuNXQzIC41cTEyIDAgMjEtOGwxMTktMTE4cTItMiA0LjUtNXQ0LTZ0Mi02LjV0LjUtNi41VjcyN3E3LTUgMTcuNS0xMXQyOS0xNnQyNC41LTEzcTE4LTExIDc1LTQwLjV0OTMuNS01MVQ4NzMgNTU2cTQ1LTQwIDY4LTc0LjV0NDEtODMuNXExNS00MSAyNS05MnQxMy41LTkydDQuNS04M3QwLTU5dC0xLTI3ek05MjIgMzc1cS0xNiA0My0zNC41IDcxVDgzMSA1MDhxLTE4IDE2LTU0IDM3dC04OSA0OHQtNzEgMzhxLTgxIDQ1LTkyIDU0cS0zIDItNSA1dC0zLjUgNnQtMi41IDYuNXQtMSA3LjV2MTY3bC02OCA3NGwtMjgtMTIxcS0zLTktOC0xNHEtMTQ1LTE2Mi0xNTQtMTcycS00LTQtOC41LTd0LTkuNS00TDkxIDYwMGw3Mi03NmgxODJxMiAwIDUtLjV0NS41LTEuNXQ1LTIuNXQ0LjUtM3QzLjUtMy41dDMuNS01cTE0LTIyIDQ5LTkzcTMtNSAxNi41LTMydDE4LjUtMzcuNXQxNy0zM3QxOS41LTM1VDUxMCAyNTB0MTgtMjVxNjAtNzAgMTM3LTk4cTEzMy01MCAyOTYtNDlxMyAxODQtMzkgMjk3eiIgZmlsbD0iYmxhY2siLz48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTA0MCIgaGVpZ2h0PSIxMDU2IiBmaWxsPSJyZ2JhKDAsIDAsIDAsIDApIiAvPjwvc3ZnPg=="
             height="40" alt="" class="image">
@@ -534,17 +584,17 @@
         pricing.</h2>
       <p class="weight-text section__subtitle center" style="text-align: center; font-size: 22px;">Always know what
         you'll Pay</p><br><br>
-      <div class=" pricing">
-        <div id="pricingTiers_s4ugh0hxdi" class="pricingTiers active-a">
+      <div class="pricing">
 
 
 
-          <div class="pricingTierWrapper"
-            style="border-radius:undefinedpx;box-shadow:0 2px 5px 0 rgba(0,0,0,0.15);background-color:">
-            <div class="pricingTier" style="padding-bottom: 60px;
-          padding-top: 60px;
-          --pdx-min-height: 0px;
-          --wr-max: 1200px;">
+
+        <div id="pricingTiers_s4ugh0hxdi" class="pricing1">
+
+
+
+          <div class="pricingTierWrapper" style="background-color: aliceblue;">
+            <div class="pricingTier">
               <h3 class="pricingTier__title color-1 weight-text-m" style="text-align: center;">Small</h3>
 
 
@@ -594,11 +644,8 @@
           <br>
 
 
-          <div class="pricingTierWrapper"
-            style="border-radius:undefinedpx;box-shadow:0 2px 5px 0 rgba(0,0,0,0.15);background-color:">
-            <div class="pricingTier" style="padding-bottom: 60px;padding-top: 60px;
-          --pdx-min-height: 0px;
-          --wr-max: 1200px;">
+          <div class="pricingTierWrapper" style="background-color: antiquewhite;">
+            <div class="pricingTier1">
               <h3 class="pricingTier__title color-1 weight-text-m" style="text-align: center;">Large
               </h3>
 
