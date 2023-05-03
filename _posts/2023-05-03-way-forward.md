@@ -32,5 +32,6 @@ What is the way forward?
 3. If you are not getting any users, let the idea die othwerwise improve the product based on the feedback.
 
 Action Items
-1. Start Posting your weekly goals on the Twitter and share progress
+1. Start Posting your weekly goals on the Twitter, share progress and learnings.
+2. When stuck with an issue break it down to small subsets and start sharing it with people.
 
