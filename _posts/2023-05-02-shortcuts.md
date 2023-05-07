@@ -11,3 +11,6 @@ summary: "List of Important Shortcuts that can make your life easier"
 
 # VsCode
 1. ctrl \: To split the view with current file.
+
+# Github CoPilot
+1. ctrl enter: To open right synthesisng pane.
