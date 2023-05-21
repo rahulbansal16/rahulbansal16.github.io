@@ -35,3 +35,5 @@ Action Items
 1. Start Posting your weekly goals on the Twitter, share progress and learnings.
 2. When stuck with an issue break it down to small subsets and start sharing it with people.
 
+
+Setting up
