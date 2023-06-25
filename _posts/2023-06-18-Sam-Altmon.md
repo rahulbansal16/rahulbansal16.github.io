@@ -9,9 +9,9 @@ Compound Yourself
 1. Move your carrer towards an upward right trajectory.
 2. Don't stay in a career where someone with 20 years of experience is equivalent to 2 year of experience.
 3. As your career progress, each unit of work should produce more and more results.
-How is that leverage possible as a developer/PM in software?
+Question How is that leverage possible as a developer/PM in software?
 4. Look for really big opportunities that if successful can make everything else small.
-Not clear about Long term thinking with a broad view of how different systems in the world are going to come together.
+Question Not clear about Long term thinking with a broad view of how different systems in the world are going to come together.
 
 Have almost too much self-belief
 1. Develop a very high sense of self-belief and develop that early.
