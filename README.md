@@ -1,7 +1,16 @@
 # Setup
-`bundle install`
-`jekyll serve` or
-`bundle exec jekyll serve`
+```
+bundle install
+```
+```
+jekyll serve
+```
+ or
+```
+bundle exec jekyll serve
+```
+
+https://chat.openai.com/c/937af6a2-2424-4825-9f4f-344def972ea6
 
 # Lanyon
 
