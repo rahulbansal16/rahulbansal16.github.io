@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Week  Goals
+title: Networking Right Way
 visible: 1
 summary: "How To Network, the right way."
 ---
 
-Most of the Networking Events
+Most of the Networking Events sucks ..
 
 Early, In my career. I was very active in meetups. I would travel to the other side of Banglore to join meetups.
 
