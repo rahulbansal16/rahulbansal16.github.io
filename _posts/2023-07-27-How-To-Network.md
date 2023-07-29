@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week  Goals
-visible: 0
+visible: 1
 summary: "How To Network, the right way."
 ---
 
