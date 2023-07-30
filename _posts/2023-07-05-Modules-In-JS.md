@@ -11,4 +11,4 @@ CommonJS was adopted by nodejs ServerSide.
 ECMA was adopted by browser standards.
 
 CommonJS use require
-ECMA uses import, export.
+ECMA uses import, export.       
