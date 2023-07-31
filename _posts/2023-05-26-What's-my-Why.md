@@ -6,6 +6,7 @@ summary: "What drives me?"
 ---
 
 What's my Why?
+[Draft]
 I have been thinking about, What will I consider the my Life as success.
 I don't want to do things, just for the sake of doing them.
 I want to provide positive experience to everyone.
