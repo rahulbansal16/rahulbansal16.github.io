@@ -9,4 +9,4 @@ So far I have got some success. I have made 25K INR doing indiehacking. Built cl
 
 ### Experiments
 * Getting Fit in public. I am sharing about my weekly progress in public for fat loss.
-* Building lots of chrome extensions.
+* Creating an Audience. I am writing weekly posts on Linkedin to improve my writing and build audience.
