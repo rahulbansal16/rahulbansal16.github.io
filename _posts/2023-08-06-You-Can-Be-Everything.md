@@ -18,7 +18,6 @@ eat grass.
 
 He kept doing that,
 and died of both hunger and thirst.
-
 We behave similarly in life.
 We would want to learn all hard things simultaneously.
 
