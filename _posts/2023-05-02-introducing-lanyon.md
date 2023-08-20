@@ -20,10 +20,13 @@ Over the course of my career. I have formed a value system that I strive for and
     There should be high bias for action. I am firm believer that you can not brainstorm for the best idea or decision. It requires work to make each decision right.
 
 - **Growth Mindset**
-    Learn from your mistake and grow.
+    Learn from your mistake and grow. The ideal people would be obsessed about improving things. If they discover a better way. They will adopt the better way.
 
 - **Disagree and Commit**
     You can't agree on everything, but you can commit to thing and let it take it's course.
+
+- **Meaningul work** Don't just do things to optimise the profits. Do things to improve others life.
+  
 
 ### Activites and Interest
 * Vipassana Meditation 🧘
