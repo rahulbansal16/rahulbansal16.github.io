@@ -19,14 +19,15 @@ Over the course of my career. I have formed a value system that I strive for and
 - **Bias For Action**
     There should be high bias for action. I am firm believer that you can not brainstorm for the best idea or decision. It requires work to make each decision right.
 
+- **Truth Seeker** People should try to seek truth. It can be simple like, Is the feature helping my customers or I am just doing it to avoid sitting idle? or complex like Do I really want to solve this problem or just doing it because people think it's cool.
+
 - **Growth Mindset**
     Learn from your mistake and grow. The ideal people would be obsessed about improving things. If they discover a better way. They will adopt the better way.
 
 - **Disagree and Commit**
     You can't agree on everything, but you can commit to thing and let it take it's course.
 
-- **Meaningul work** Don't just do things to optimise the profits. Do things to improve others life.
-  
+- **Meaningul work** Don't just do things to optimise the profits. Do things to improve others life.  
 
 ### Activites and Interest
 * Vipassana Meditation 🧘
