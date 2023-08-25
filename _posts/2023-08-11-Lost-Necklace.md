@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Week  Goals
-visible: 0
-summary: "How To Netwddi"idi"iork, the right way."
+title:  The Necklace
+visible: 1
+summary: "Why it's important to keep your pride aside and ask for help"
 ---
 The Necklace📿
 
