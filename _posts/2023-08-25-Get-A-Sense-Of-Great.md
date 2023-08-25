@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Week  Goals
+title: What is great?
 visible: 1
-summary: "Develop a sense of What is great?"
+summary: "It's important to understand what great looks like before progressing towards it"
 ---
 
 It was a nice snack time, during my internship at Directiplex.
