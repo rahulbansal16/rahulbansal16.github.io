@@ -31,6 +31,6 @@ But very few have developed the taste of what great works look like in their fie
 
 so, start developing awareness about what great looks like.
 Ask questions like
-1. What is something unique about the post?
+1. What's different about the work that's classified as great?
 2. Look at great people in the field and try to find answers to what makes them great.
 3. If something is bad, What makes it bad?
