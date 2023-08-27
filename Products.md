@@ -65,4 +65,4 @@ Youtube Demo
 [![Video Title](http://img.youtube.com/vi/grcXHsGBpbw/0.jpg)](https://youtu.be/grcXHsGBpbw "Video Title")
 
 
-
+A lot of ideas were rejected at Landing Page and User interivew stage and did not made to this list.
