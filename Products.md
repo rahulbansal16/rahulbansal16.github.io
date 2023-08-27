@@ -62,6 +62,7 @@ YouTube - <a href="https://youtu.be/grcXHsGBpbw"> Demo </a>
 Website - No Longer Functional 
 **Problem Statement** Co-founded and leading the tech for it. The idea was to make garment supply chain responsive. Had 3 factories in banglore using our product.
 Youtube Demo
-[![Video Title](http://img.youtube.com/vi/grcXHsGBpbw/3.jpg)](https://youtu.be/grcXHsGBpbw "Video Title")
+[![Video Title](http://img.youtube.com/vi/grcXHsGBpbw/0.jpg)](https://youtu.be/grcXHsGBpbw "Video Title")
+
 
 
