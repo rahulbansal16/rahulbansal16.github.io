@@ -49,7 +49,7 @@ Website - <a href="https://stashleads.com"> StashLeads </a>
 ### Stormy - CLI tool to cut down the compile time.
 Github - <a href="https://github.com/StormyApp/cli"> Stormy CLI </a>  
 YouTube - <a href="https://youtu.be/pO1yM-iLTC8?si=BCaQdBJ0z27cYmxZ"> Demo </a> 
-Website - No Longer Functional 
+Website - No Longer Functional  
 **Problem Statement** Compiling code locally takes time, I wanted to compile it in 4-5 seconds.
 This xkcd comics depicts the problem statement well
 ![Code Is compiling](https://imgs.xkcd.com/comics/compiling.png)
@@ -59,7 +59,7 @@ Youtube Demo
 
 ### Zenlor - Digitising the supply chain of garment industry
 YouTube - <a href="https://youtu.be/grcXHsGBpbw"> Demo </a> 
-Website - No Longer Functional 
+Website - No Longer Functional   
 **Problem Statement** Co-founded and leading the tech for it. The idea was to make garment supply chain responsive. Had 3 factories in banglore using our product.
 Youtube Demo
 [![Video Title](http://img.youtube.com/vi/grcXHsGBpbw/0.jpg)](https://youtu.be/grcXHsGBpbw "Video Title")
