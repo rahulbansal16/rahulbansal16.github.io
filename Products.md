@@ -6,7 +6,8 @@ title: Products
 I am a hustler and have lots of experiments in the past. Here is a timeline of what I have been building.
 
 ### Blinkcuts - Edit, Caption, Highlight shorts using AI
-Website - <a href="https://www.blinkcuts.com" > Blinkcuts</a>  
+Website - <a href="https://www.blinkcuts.com" > Blinkcuts</a>    
+Demo - <a href="https://app.blinkcuts.com"> Demo </a>    
 **Problem Statement** It's painful to edit shorts and add subtitles to the videos. The aim is to make it super simple.
 
 
