@@ -1,0 +1,112 @@
+Start Typing here
+DB Schema, Class Daigram, API
+Bike, Scotters
+Bike 3 type
+Scooters are of Electric and Gas
+
+Custoemrs bike for 3 days small size
+
+Entity
+customers
+id, 
+name
+
+Entity
+assets
+id
+status, AVAILABLE_FOR_RENT, 
+type Scooter,bike
+data: { enginer, size }
+
+ScotterEntity extents Assets {
+    
+}
+
+BikeEntity extends Assets {
+    
+}
+
+
+
+
+AssetController
+@Autowired
+AssetService
+
+/assets
+    list
+    add
+    delete 
+    update
+    
+AssetService implement AssetServiceInterface
+
+
+
+currentBooking
+id
+asset_id
+booking_id: Null
+
+
+
+
+Entity
+booking
+
+id,
+cust_id
+asset_id
+startDuration,
+endDuration,
+pricingStragegy_id
+
+
+Booking Controller
+
+BookingService impl BookingServiceInterface
+
+DynamicPricingService impl Interface
+
+Entity
+pricingStrategy
+id
+basePrice
+lateChargePrice
+
+
+
+minBasePrice
+maxBasePrice
+minLateFee
+maxLateFee
+
+PaymentService implements PaymentServiceInterface
+
+
+Entity
+
+payment
+id,
+booking_id
+status
+
+
+
+Modication to asset, engine is hybrid
+
+
+
+bike size
+scotter enginer
+
+
+model
+
+cycle
+model_nu
+size
+
+
+
+
