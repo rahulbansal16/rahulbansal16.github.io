@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mistakes Non-Tech Founder
+title: Mistakes Non-Tech Founder Make
 visible: 1
 summary: "Mistakes non-tech founder make when looking for tech founder."
 ---
