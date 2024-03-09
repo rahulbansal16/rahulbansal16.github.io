@@ -3,7 +3,15 @@ layout: page
 title: Products
 ---
 
-I am a hustler and have lots of experiments in the past. Here is a timeline of what I have been building.
+I am firm believer of giving a good thought and moving fast.
+Taking a decision and acting upon it.
+Validating the risky hypothesis at the onset.
+
+Doing this requires.
+1. Learning and Unlearning things super fast.
+2. Breaking down the hypothesis to smallest testable bit.
+
+In the year 2023, I tested lots of hypothesis and here is a timeline for the same.
 
 ### Blinkcuts - Edit, Caption, Highlight shorts using AI
 Website - <a href="https://www.blinkcuts.com" > Blinkcuts</a>    
